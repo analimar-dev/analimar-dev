@@ -1,43 +1,62 @@
-<h1 align="center">Olá, eu sou a Analimar 👋</h1>
+<h1 align="center">✨ Olá, eu sou a Analimar ✨</h1>
+
+<h3 align="center">
+Desenvolvedora Front-End em evolução 🚀
+</h3>
+
+---
+
+<div align="center">
+
+💜 Apaixonada por tecnologia  
+💻 Estudando HTML, CSS e JavaScript  
+🎨 Criando interfaces modernas  
+📚 Evoluindo um pouco todos os dias  
+
+</div>
+
+---
+
+## 🚀 Tecnologias que estou aprendendo
 
 <p align="center">
-Front-End Developer • HTML • CSS • JavaScript
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
+
 </p>
 
 ---
 
-## Sobre mim
+## 📊 Estatísticas GitHub
 
-Sou apaixonada por tecnologia, design e desenvolvimento web.  
-Estou construindo projetos modernos, responsivos e com foco em evolução constante.
+<div align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=analimar-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## Tecnologias
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analimar-dev&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-</p>
+</div>
 
 ---
 
-## GitHub Stats
+## 🌌 Sobre mim
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=analimar-dev&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analimar-dev&layout=compact&theme=tokyonight"/>
-</p>
+✨ Em constante evolução  
+💜 Focada em desenvolvimento Front-End  
+🚀 Construindo meu futuro através da tecnologia  
 
 ---
 
-## Objetivos
+<div align="center">
 
-- Evoluir como desenvolvedora front-end
-- Criar interfaces modernas e elegantes
-- Construir projetos profissionais
-- Trabalhar com tecnologia e desenvolvimento web
-- -
+⭐ Obrigada por visitar meu perfil ⭐
+
+</div>
