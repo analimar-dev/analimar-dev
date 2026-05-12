@@ -1,3 +1,4 @@
+<img width="1500" height="500" alt="Design sem nome (3)" src="https://github.com/user-attachments/assets/cc487a45-16ba-4d15-a0d9-9bc2558d5bac" />
 
 
 <h1 align="center">✨ Olá, eu sou a Analimar ✨</h1>
